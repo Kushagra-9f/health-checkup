@@ -1,6 +1,6 @@
 import streamlit as st
 
 if st.button("male") :
- st.write(ok)
+ st.number_input("hight")
 
 st.button("female")
