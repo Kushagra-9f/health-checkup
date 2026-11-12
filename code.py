@@ -1,4 +1,6 @@
 import streamlit as st
 
-st.button("male♂️")
+if st.button("male♂️")=true
+st.text("Fixed width text")
+
 st.button("female♀️")
